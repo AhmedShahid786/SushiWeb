@@ -41,7 +41,7 @@
     font-weight: 300;
     line-height: 25px;
     font-family: var(--plus-jakarta-sans);
-    color: white;
+    color: #222222;
     cursor: pointer;
 }
 
@@ -144,9 +144,7 @@
     font-size: 32px;
 }
 
-.popular-foods__card.active-card .popular-foods__card-details {
 
-}
 .popular-foods__card.active-card .popular-foods__card-rating img {
     width: 32px;
     height: 32px;
